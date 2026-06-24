@@ -1,0 +1,4 @@
+/* Description de la tâche : Défilement fluide sur l'élément HTML */
+html {
+    scroll-behavior: smooth;
+}
