@@ -1,0 +1,16 @@
+/* Tâche 2 : Styles de base pour le corps, les liens et les classes spécifiques */
+body {
+    color: #161616;
+}
+a {
+    color:#161616;
+}
+.visually-hidden {
+    color: none;
+}
+.card-category {
+    color: #D73953;
+}
+.section-tagline {
+    color: #D73953;
+}
