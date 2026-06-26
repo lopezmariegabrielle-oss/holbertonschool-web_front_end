@@ -709,7 +709,6 @@ ul.row {
   left: -0.1rem;
   right: -0.1rem;
   z-index: 1;
-  transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work:hover .card-inner {
@@ -755,6 +754,14 @@ ul.row {
   color: #efeded;
   font-size: 10rem;
   z-index: -1;
+}
+
+.card-work .card-image {
+  transition: var(--transition-duration) var(--transition-cubic-bezier);
+}
+
+.card-work .card-outer {
+  transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work:hover .card-image {
