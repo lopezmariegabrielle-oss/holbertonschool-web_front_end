@@ -550,25 +550,6 @@ ul.row {
   background-color: var(--color-black);
 }
 
-[data-section-theme="dark"] h1,
-[data-section-theme="dark"] h2,
-[data-section-theme="dark"] h3,
-[data-section-theme="dark"] h4,
-[data-section-theme="dark"] h5,
-[data-section-theme="dark"] h6 {
-  color: var(--color-white);
-}
-
-[data-section-theme="dark"] a,
-[data-section-theme="dark"] .nav .nav-link,
-[data-section-theme="dark"] .footer-nav-link {
-  color: var(--color-white);
-}
-
-[data-section-theme="dark"] svg {
-  fill: var(--color-white);
-}
-
 .footer-address {
   color: var(--text-color);
 }
